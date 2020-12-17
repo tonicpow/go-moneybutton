@@ -1,11 +1,11 @@
 # go-moneybutton
 > The unofficial golang implementation for the [MoneyButton API](https://docs.moneybutton.com/docs/api-overview.html)
 
-[![Release](https://img.shields.io/github/release-pre/tonicpow/go-moneybutton.svg?logo=github&style=flat&v=2)](https://github.com/tonicpow/go-moneybutton/releases)
-[![Build Status](https://travis-ci.com/tonicpow/go-moneybutton.svg?branch=master&v=2)](https://travis-ci.com/tonicpow/go-moneybutton)
-[![Report](https://goreportcard.com/badge/github.com/tonicpow/go-moneybutton?style=flat&v=2)](https://goreportcard.com/report/github.com/tonicpow/go-moneybutton)
-[![codecov](https://codecov.io/gh/tonicpow/go-moneybutton/branch/master/graph/badge.svg?v=2)](https://codecov.io/gh/tonicpow/go-moneybutton)
-[![Go](https://img.shields.io/github/go-mod/go-version/tonicpow/go-moneybutton?v=2)](https://golang.org/)
+[![Release](https://img.shields.io/github/release-pre/tonicpow/go-moneybutton.svg?logo=github&style=flat&v=3)](https://github.com/tonicpow/go-moneybutton/releases)
+[![Build Status](https://img.shields.io/github/workflow/status/tonicpow/go-moneybutton/run-go-tests?logo=github&v=3)](https://github.com/tonicpow/go-moneybutton/actions)
+[![Report](https://goreportcard.com/badge/github.com/tonicpow/go-moneybutton?style=flat&v=3)](https://goreportcard.com/report/github.com/tonicpow/go-moneybutton)
+[![codecov](https://codecov.io/gh/tonicpow/go-moneybutton/branch/master/graph/badge.svg?v=3)](https://codecov.io/gh/tonicpow/go-moneybutton)
+[![Go](https://img.shields.io/github/go-mod/go-version/tonicpow/go-moneybutton?v=3)](https://golang.org/)
 
 <br/>
 
@@ -37,7 +37,7 @@ go get -u github.com/tonicpow/go-moneybutton
 
 View the generated [documentation](https://pkg.go.dev/github.com/tonicpow/go-moneybutton)
 
-[![GoDoc](https://godoc.org/github.com/tonicpow/go-moneybutton?status.svg&style=flat&v=2)](https://pkg.go.dev/github.com/tonicpow/go-moneybutton)
+[![GoDoc](https://godoc.org/github.com/tonicpow/go-moneybutton?status.svg&style=flat&v=3)](https://pkg.go.dev/github.com/tonicpow/go-moneybutton)
 
 ### Features
 
@@ -157,4 +157,4 @@ View the [contributing guidelines](CONTRIBUTING.md) and please follow the [code 
 
 ## License
 
-![License](https://img.shields.io/github/license/tonicpow/go-moneybutton.svg?style=flat&v=2)
+![License](https://img.shields.io/github/license/tonicpow/go-moneybutton.svg?style=flat&v=3)
