@@ -6,6 +6,7 @@
 [![Report](https://goreportcard.com/badge/github.com/tonicpow/go-moneybutton?style=flat&v=3)](https://goreportcard.com/report/github.com/tonicpow/go-moneybutton)
 [![codecov](https://codecov.io/gh/tonicpow/go-moneybutton/branch/master/graph/badge.svg?v=3)](https://codecov.io/gh/tonicpow/go-moneybutton)
 [![Go](https://img.shields.io/github/go-mod/go-version/tonicpow/go-moneybutton?v=3)](https://golang.org/)
+[![Mergify Status](https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges/tonicpow/go-moneybutton&style=flat&v=3)](https://mergify.io)
 
 <br/>
 
