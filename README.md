@@ -6,7 +6,9 @@
 [![Report](https://goreportcard.com/badge/github.com/tonicpow/go-moneybutton?style=flat&v=3)](https://goreportcard.com/report/github.com/tonicpow/go-moneybutton)
 [![codecov](https://codecov.io/gh/tonicpow/go-moneybutton/branch/master/graph/badge.svg?v=3)](https://codecov.io/gh/tonicpow/go-moneybutton)
 [![Go](https://img.shields.io/github/go-mod/go-version/tonicpow/go-moneybutton?v=3)](https://golang.org/)
+<br>
 [![Mergify Status](https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges/tonicpow/go-moneybutton&style=flat&v=3)](https://mergify.io)
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/tonicpow/go-moneybutton)
 
 <br/>
 
@@ -79,6 +81,8 @@ List of all current commands:
 clean                Remove previous builds and any test cache data
 clean-mods           Remove all the Go mod cache
 coverage             Shows the test coverage
+diff                 Show the git diff
+generate             Runs the go generate command in the base of the repo
 godocs               Sync the latest tag with GoDocs
 help                 Show this help message
 install              Install the application
@@ -92,11 +96,13 @@ replace-version      Replaces the version in HTML/JS (pre-deploy)
 tag                  Generate a new tag and push (tag version=0.0.0)
 tag-remove           Remove a tag if found (tag-remove version=0.0.0)
 tag-update           Update an existing tag to current commit (tag-update version=0.0.0)
-test                 Runs vet, lint and ALL tests
+test                 Runs lint and ALL tests
 test-ci              Runs all tests via CI (exports coverage)
 test-ci-no-race      Runs all tests via CI (no race) (exports coverage)
 test-ci-short        Runs unit tests via CI (exports coverage)
+test-no-lint         Runs just tests
 test-short           Runs vet, lint and tests (excludes integration tests)
+test-unit            Runs tests and outputs coverage
 uninstall            Uninstall the application (and remove files)
 update-linter        Update the golangci-lint package (macOS only)
 vet                  Run the Go vet application
@@ -134,7 +140,7 @@ make bench
 
 ## Code Standards
 
-Read more about this Go project's [code standards](CODE_STANDARDS.md).
+Read more about this Go project's [code standards](.github/CODE_STANDARDS.md).
 
 <br/>
 
@@ -154,8 +160,10 @@ View the [examples](examples)
 
 ## Contributing
 
-View the [contributing guidelines](CONTRIBUTING.md) and please follow the [code of conduct](CODE_OF_CONDUCT.md).
+View the [contributing guidelines](.github/CONTRIBUTING.md) and please follow the [code of conduct](.github/CODE_OF_CONDUCT.md).
+
+[![Stars](https://img.shields.io/github/stars/tonicpow/go-moneybutton?label=Please%20like%20us&style=social)](https://github.com/tonicpow/go-moneybutton/stargazers)
 
 ## License
 
-![License](https://img.shields.io/github/license/tonicpow/go-moneybutton.svg?style=flat&v=3)
+[![License](https://img.shields.io/github/license/tonicpow/go-moneybutton.svg?style=flat&v=3)](LICENSE)
