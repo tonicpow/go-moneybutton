@@ -3,7 +3,7 @@ package moneybutton
 const (
 
 	// version is the current package version
-	version = "v0.0.3"
+	version = "v0.0.4"
 
 	// defaultUserAgent is the default user agent for all requests
 	defaultUserAgent string = "go-moneybutton: " + version
@@ -32,7 +32,13 @@ const (
 	OauthURL = "https://www.moneybutton.com/oauth/" + apiVersion + "/"
 
 	// MoneyButton oAuth Permissions
-	PermissionsBalance  = "users.balance:read"
+
+	// PermissionsBalance is the users balance
+	PermissionsBalance = "users.balance:read"
+
+	// PermissionsIdentity is the users basic identity
 	PermissionsIdentity = "auth.user_identity:read"
-	PermissionsProfile  = "users.profiles:read"
+
+	// PermissionsProfile is the users basic profile
+	PermissionsProfile = "users.profiles:read"
 )
