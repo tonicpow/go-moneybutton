@@ -2,7 +2,7 @@
 > The unofficial golang implementation for the [MoneyButton API](https://docs.moneybutton.com/docs/api-overview.html)
 
 [![Release](https://img.shields.io/github/release-pre/tonicpow/go-moneybutton.svg?logo=github&style=flat&v=3)](https://github.com/tonicpow/go-moneybutton/releases)
-[![Build Status](https://img.shields.io/github/workflow/status/tonicpow/go-moneybutton/run-go-tests?logo=github&v=3)](https://github.com/tonicpow/go-moneybutton/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/tonicpow/go-moneybutton/run-tests.yml?branch=master&logo=github&v=3)](https://github.com/tonicpow/go-moneybutton/actions)
 [![Report](https://goreportcard.com/badge/github.com/tonicpow/go-moneybutton?style=flat&v=3)](https://goreportcard.com/report/github.com/tonicpow/go-moneybutton)
 [![codecov](https://codecov.io/gh/tonicpow/go-moneybutton/branch/master/graph/badge.svg?v=3)](https://codecov.io/gh/tonicpow/go-moneybutton)
 [![Go](https://img.shields.io/github/go-mod/go-version/tonicpow/go-moneybutton?v=3)](https://golang.org/)
