@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/gojektech/heimdall/v6 v6.1.0
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.8.3
 )
 
 require (
