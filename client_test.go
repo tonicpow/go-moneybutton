@@ -40,7 +40,7 @@ func ExampleNewClient() {
 	client := NewClient(nil, nil)
 
 	fmt.Printf("created new client: %s", client.Options.UserAgent)
-	// Output:created new client: go-moneybutton: v0.1.0
+	// Output:created new client: go-moneybutton: v0.2.0
 }
 
 // BenchmarkNewClient benchmarks the method NewClient()
