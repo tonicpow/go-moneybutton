@@ -14,6 +14,7 @@
 
 ## Table of Contents
 
+- [Notice](#notice)
 - [Installation](#installation)
 - [Documentation](#documentation)
 - [Examples & Tests](#examples--tests)
@@ -23,6 +24,11 @@
 - [Maintainers](#maintainers)
 - [Contributing](#contributing)
 - [License](#license)
+
+<br/>
+
+## Notice
+**Moneybutton has [stopped offering their services](https://about.moneybutton.com/). This library will no longer be maintained.**
 
 <br/>
 
